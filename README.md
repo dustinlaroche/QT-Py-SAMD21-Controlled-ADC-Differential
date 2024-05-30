@@ -4,7 +4,7 @@ This Arduino code will enable the MCU to utilize two ADC inputs for differential
 
 <img src="https://github.com/dustinlaroche/QT-Py-SAMD21-Controlled-ADC-Differential/blob/main/plot.png" />
 
-<b><u>To Do List</u></b>
+<h2><b><u>To Do List</u></b></h2>
 <ol>
   <li>Work on interrupt to have a finer control over the sample rate to match the 350 ksps.</li>
 </ol>
