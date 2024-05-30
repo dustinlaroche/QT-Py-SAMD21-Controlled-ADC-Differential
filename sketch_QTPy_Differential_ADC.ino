@@ -37,5 +37,5 @@ void loop() {
   Serial.print(", ");
   Serial.println(adcValue);
 
-  delay(3);
+  // delay(3);
 }
